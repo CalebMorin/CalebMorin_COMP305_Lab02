@@ -3,6 +3,15 @@ using System.Collections.Generic;
 using UnityEngine;
 using Util;
 
+///Project Information
+/// 
+/// Name: Caleb Morin
+/// ID: 301012814  
+/// Original Author: Tom Tsiliopolous
+/// Last Edited: 11/9/2019
+/// 
+///Project Information
+
 public class CloudController : MonoBehaviour
 {
     [Header("Speed Values")]

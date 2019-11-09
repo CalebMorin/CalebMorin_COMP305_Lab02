@@ -11,17 +11,9 @@ using UnityEngine;
 /// 
 ///Project Information
 
-
-namespace Util
+public enum Scene
 {
-    [System.Serializable]
-    public class Boundary
-    {
-        public float Top;
-        public float Right;
-        public float Bottom;
-        public float Left;
-    }
+    START,
+    MAIN,
+    END
 }
-
-

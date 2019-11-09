@@ -4,8 +4,10 @@ using UnityEngine;
 
 ///Project Information
 /// 
+/// Name: Caleb Morin
+/// ID: 301012814  
 /// Original Author: Tom Tsiliopolous
-/// Date:
+/// Last Edited: 11/9/2019
 /// 
 ///Project Information
 

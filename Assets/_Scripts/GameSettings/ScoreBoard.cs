@@ -11,17 +11,11 @@ using UnityEngine;
 /// 
 ///Project Information
 
-
-namespace Util
+[CreateAssetMenu(fileName = "ScoreBoard", menuName = "Game/ScoreBoard")]
+[System.Serializable]
+public class ScoreBoard : ScriptableObject
 {
-    [System.Serializable]
-    public class Boundary
-    {
-        public float Top;
-        public float Right;
-        public float Bottom;
-        public float Left;
-    }
+    public int highScore;
+    public int lives;
+    public int score;
 }
-
-

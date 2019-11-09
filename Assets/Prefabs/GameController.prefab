@@ -348,7 +348,7 @@ MonoBehaviour:
   livesLabel: {fileID: 0}
   scoreLabel: {fileID: 0}
   highScoreLabel: {fileID: 0}
-  scoreBoard: {fileID: 0}
+  sceneSettings: []
   startLabel: {fileID: 0}
   startButton: {fileID: 0}
   endLabel: {fileID: 0}
